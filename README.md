@@ -55,8 +55,5 @@ evidencias/    registro de aportes y capturas
 
 La rama principal será `main`. Cada integrante debe clonar el repositorio con su cuenta, configurar su propia identidad local y aportar un archivo en `evidencias/aportes/`. Los cambios funcionales posteriores se harán en ramas y se revisarán mediante pull requests.
 
-Consulta [la guía de contribución](CONTRIBUTING.md), [el backlog](docs/product-backlog.md) y [el registro de evidencias](evidencias/registro.md).
 
-## Referencia académica
 
-Proyecto Integrador - Final.pdf: objetivos y alcance, páginas 7-9; requerimientos funcionales, páginas 10-12. Este repositorio inicia el Entregable 1 de definición del alcance, roles y repositorio.
