@@ -2,7 +2,7 @@
 
 ## Pipeline de datos para entrenamiento de modelos de aprendizaje automático
 
-Proyecto integrador de sexto semestre orientado a diseñar, implementar y validar un pipeline que extraiga datos de APIs abiertas, realice procesos ETL en Google Colab, compare alternativas de procesamiento y entrene modelos de Machine Learning. Los resultados se presentarán mediante visualizaciones y un dashboard, junto con una evaluación de seguridad y una propuesta de valor de negocio.
+Proyecto integrador de sexto semestre orientado a diseñar, implementar y validar un pipeline que obtenga datos ambientales desde APIs, realice procesos ETL en Google Colab, compare alternativas de procesamiento y entrene modelos de Machine Learning para estimar el nivel de riesgo de incendios forestales. Los resultados se presentarán mediante visualizaciones y un dashboard, junto con una evaluación de seguridad y una propuesta de valor de negocio.
 
 ## Autores y roles Scrum
 
